@@ -1,3 +1,8 @@
+/**
+* Desafio 01:
+* Crie uma função que dado o objeto, imprima o valor da variavel exemplo
+*/
+
 var endereco = {
  rua: "Rua dos Pinheiros",
  numero: 1293,
